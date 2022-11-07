@@ -15,7 +15,7 @@ import { LanguageContext } from '../../contexts/language/context';
 import { Link } from 'minimal-components-react/dist/components/Text';
 
 const Contact = () => {
-  const { contact } = useContext(LanguageContext);
+  const language = useContext(LanguageContext);
 
   const icons = {
     WhatsApp: {
@@ -26,16 +26,14 @@ const Contact = () => {
   const iconsList: Array<IconModel> = [];
 
   for (const key in icons) {
-    if (icons.hasOwnProperty(key)) {
-      const icon = icons[key];
-      const href = socialMedia[key];
-      const text = contact.socialMedia[key];
-      iconsList.push({
-        icon: icon.icon,
-        href: href.href + text.text,
-        alt: key,
-      });
-    }
+    const icon = icons[key];
+    const href = socialMedia[key];
+    const text = language?.contact?.socialMedia[key];
+    iconsList.push({
+      icon: icon.icon,
+      href: href.href + text.text,
+      alt: key,
+    });
   }
 
   return (
