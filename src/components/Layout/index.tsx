@@ -29,7 +29,7 @@ const Layout = (props: {
         <>
           {/* <Header setTitle={props?.setTitle} title={props?.title} /> */}
           <Notification context={NotificationContext} />
-          <LayoutWrapper id="mainLayoutWrapper">
+          <LayoutWrapper id="mainLayoutWrapper" style={{ padding: '15px' }}>
             {props?.children}
           </LayoutWrapper>
           <Footer search={props?.search} setSearch={props?.setSearch} />

@@ -17,11 +17,12 @@ const Footer = () => {
   return (
     <StyledFooter
       style={{
-        width: '70px',
+        width: '90px',
         bottom: '0px',
         right: '0px',
         left: 'unset',
         borderTop: '0px',
+        backgroundColor: 'transparent',
       }}
     >
       <Contact />

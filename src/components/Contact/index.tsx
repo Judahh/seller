@@ -42,16 +42,28 @@ const Contact = () => {
         <ItemList>
           {iconsList.map((e, index) => {
             return (
-              <Link
-                icon
-                target="_blank"
-                rel="noopener noreferrer external"
-                alt={e.alt}
-                aria-label={e.alt}
+              <div
                 key={index}
+                style={{
+                  width: '90px',
+                  height: '90px',
+                  padding: '20px',
+                  textAlign: 'center',
+                  backgroundColor: 'white',
+                  borderRadius: '100%',
+                }}
               >
-                <a href={e.href}>{e.icon}</a>
-              </Link>
+                <Link
+                  icon
+                  target="_blank"
+                  rel="noopener noreferrer external"
+                  alt={e.alt}
+                  aria-label={e.alt}
+                  key={index}
+                >
+                  <a href={e.href}>{e.icon}</a>
+                </Link>
+              </div>
             );
           })}
         </ItemList>
