@@ -1,7 +1,5 @@
 {
   "pages": {
-    "group": "Wroom",
-    "groups": "Wrooms",
     "signUp": "Sign Up",
     "signIn": "Sign In",
     "signOut": "Sign Out",
@@ -31,8 +29,6 @@
     "place": "PLACE",
     "products": "PRODUCTS",
     "product": "PRODUCT",
-    "group": "WROOM",
-    "groups": "WROOMS",
     "payment": "PAYMENT",
     "layout": "LAYOUT",
     "settings": "SETTINGS",
@@ -376,7 +372,7 @@
         "text": ""
       },
       "Email": {
-        "text": "wroom.contact@gmail.com"
+        "text": "seller.contact@gmail.com"
       }
     }
   },
