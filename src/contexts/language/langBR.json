@@ -52,7 +52,15 @@
   "box": {
     "title": "VENDO OU ALUGO BOX NO CENTRO FASHION",
     "subTitle": "Compre ou alugue este box para o seu negócio!",
-    "sector": "Box está localizado no setor VERDE, o mais movimentado do Centro Fashion."
+    "sector": "Box está localizado no setor VERDE, o mais movimentado do Centro Fashion.",
+    "buy": "COMPRAR",
+    "rent": "ALUGAR",
+    "contact0": "Eu quero",
+    "contact1": "por",
+    "contact2": "e ganhar um site de brinde!",
+    "contact3": "Entrar em contato!",
+    "contact4": "seu Box",
+    "currency": "reais"
   },
   "contact": {
     "title": "CONTATO",

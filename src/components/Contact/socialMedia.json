@@ -1,6 +1,7 @@
 {
   "WhatsApp": {
-    "href": "https://api.whatsapp.com/send?phone=5585999481376"
+    "href": "https://api.whatsapp.com/send?phone=5585999481376",
+    "phone": "5585999481376"
   },
   "Instagram": {
     "href": "https://www.instagram.com/seller/"

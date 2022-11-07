@@ -52,7 +52,15 @@
   "box": {
     "title": "'CENTRO FASHION FORTALEZA' BOX FOR RENT/SALE",
     "subTitle": "Rent or buy a box for your business!",
-    "sector": "Box is located in the sector GREEN, the most important sector of the CENTRO FASHION."
+    "sector": "Box is located in the sector GREEN, the most important sector of the CENTRO FASHION.",
+    "buy": "BUY",
+    "rent": "RENT",
+    "contact0": "I want to",
+    "contact1": "for",
+    "contact2": "and get an website for free!",
+    "contact3": "Get in touch!",
+    "contact4": "your Box",
+    "currency": "reais"
   },
   "contact": {
     "title": "CONTACT",
