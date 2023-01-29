@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Box no Centro fashion",
+        "description": "",
+        "price": 50000,
+        "quantity": 0,
+        "disabled": true,
+        "images": [
+            "img/box/n0.png",
+            "img/box/n1.png",
+            "img/box/n2.png",
+            "img/box/n3.png",
+            "img/box/n4.png",
+            "img/box/v0.jpeg",
+            "img/box/v1.jpeg",
+            "img/box/v2.jpeg",
+            "img/box/e0.png",
+            "img/box/e1.jpeg",
+            "img/box/e2.jpeg",
+            "img/box/m0.jpeg",
+            "img/box/m1.png",
+            "img/box/m2.png",
+            "img/box/m3.webp"
+          ],
+        "link": "/box"
+    },
+    {
+        "name": "Amplificador Marshall MG 250 DFX",
+        "description": "",
+        "price": 3000,
+        "quantity": 1,
+        "disabled": false,
+        "images": ["https://http2.mlstatic.com/D_NQ_NP_2X_988246-MLB51044395734_082022-F.webp"]
+    },
+    {
+      "name": "TV 4k 55\" LG",
+      "description": "Smart Tv 55\" LG 4K NanoCell 55NANO75 3x HDMI 2.0 Inteligência Artificial ThinQAI Smart Magic Google Alexa",
+      "price": 2500,
+      "quantity": 1,
+      "disabled": false,
+      "images": ["https://lojaibyte.vteximg.com.br/arquivos/ids/382432-1200-1200/smart-tv-lg-55-4k-nanocell-55nano75-3x-hdmi-2-0-inteligencia-artificial-thinqai-smart-magic-google-alexa-48284-1.jpg?v=637787988316500000"]
+    },
+    {
+        "name": "Sofá",
+        "description": "",
+        "price": 2500,
+        "quantity": 1,
+        "disabled": false,
+        "images": []
+    },
+    {
+        "name": "Geladeria Brastemp Frost Free",
+        "description": "Geladeria Brastemp Frost Free 375 litros branca",
+        "price": 2000,
+        "quantity": 1,
+        "disabled": false,
+        "images": ["https://brastemp.vtexassets.com/arquivos/ids/231289/geladeira-brastemp-brm45jb-frontal-1.jpg?v=637999955846970000"]
+    },
+    {
+        "name": "Buffet Projetado",
+        "description": "",
+        "price": 1000,
+        "quantity": 1,
+        "disabled": false,
+        "images": []
+    },
+    {
+        "name": "Fogão",
+        "description": "",
+        "price": 500,
+        "quantity": 1,
+        "disabled": true,
+        "images": []
+    }
+  ]

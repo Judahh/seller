@@ -49,6 +49,12 @@
     "title": "404",
     "description": "Page Not Found."
   },
+  "home": {
+    "title": "Tô Vendendo Tudo!"
+  },
+  "product": {
+    "soldOut": "Sold Out"
+  },
   "box": {
     "title": "'CENTRO FASHION FORTALEZA' BOX FOR RENT/SALE",
     "subTitle": "Rent or buy a box for your business!",
@@ -87,6 +93,6 @@
   },
   "format": {
     "locale": "en-US",
-    "currency": "US$"
+    "currency": "BRL"
   }
 }

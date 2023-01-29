@@ -49,6 +49,12 @@
     "title": "404",
     "description": "Página Não Encontrada."
   },
+  "home": {
+    "title": "Tô Vendendo Tudo!"
+  },
+  "product": {
+    "soldOut": "Esgotado"
+  },
   "box": {
     "title": "VENDO OU ALUGO BOX NO CENTRO FASHION",
     "subTitle": "Compre ou alugue este box para o seu negócio!",

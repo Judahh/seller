@@ -4,6 +4,7 @@ import Layout from '../Layout';
 import NotFound from 'minimal-components-react/dist/components/NotFound';
 import { withTheme } from 'styled-components';
 import Box from '../Box';
+import Home from '../Home';
 
 const useQuery = () => {
   const { search } = useLocation();
@@ -53,6 +54,10 @@ const Router = (props: { title?: string }) => {
               <Route
                 path="box"
                 element={<Box navigate={navigate} location={location} />}
+              />
+              <Route
+                path=""
+                element={<Home navigate={navigate} location={location} />}
               />
             </Route>
             <Route path="*" element={<NotFound />} />
